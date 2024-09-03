@@ -2,7 +2,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m a React Frontend Developer.
+- 🔭 I’m a React Frontend Developer and Python Enthusiast.
 <!-- - 🌱 I’m currently learning Nest Js. -->
 - 👯 I'm looking to collaborate on International Companies.
 
